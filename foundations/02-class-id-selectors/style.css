@@ -1,6 +1,10 @@
-p {
+.odd {
     background-color:rgb(235, 131, 119);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.oddly_cool{
+    font-size: 24px;
 }
 
 #number_two {
@@ -8,13 +12,8 @@ p {
     font-size: 36px;
 }
 
-#number_three {
-    font-size: 24px;
-}
-
 #number_four {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
 }
-
